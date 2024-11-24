@@ -19,4 +19,6 @@
 
 ## MANAGEMENT
 
-* [Page 1](management/page-1.md)
+* [Leagues](management/leagues.md)
+* [Games](management/games.md)
+* [Reorder Markets](management/reorder-markets.md)
