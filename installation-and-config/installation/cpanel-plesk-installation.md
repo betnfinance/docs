@@ -8,7 +8,7 @@ description: >-
 
 ### KNOWN ISSUES ON SHARED HOSTING.
 
-1. The software require the laravel artisan queue worer to monitored and running. It can be challenging to set this up on shared hosting since you need sudo privileges to setup supervisord.  If you have sudo privileges , you add the command , _**(see the end of the page for more**_). to your supervisord conf.
+1. The software require the laravel artisan queue worker to be monitored and running. It can be challenging to set this up on shared hosting since you need sudo privileges to setup supervisord.  If you have sudo privileges , you add the command , _**(see the end of the page for more**_). to your supervisord conf.
 2. Like the queue:worker above laravel reverb needs to be monitored and run. Fortunately you can replace reverb for pusher.com since its a drop in subsitute.
 
 ### Betriver maintains a strict standard Laravel folder structure. This makes it easy for any laravel developer to customize, update or modify the software.
